@@ -1,0 +1,13 @@
+{
+    "id": "{7E872C9C-51B1-0ABF-9B05-6C90C5FA545D}",
+    "author": "J.H. Artworks",
+    "name": "Discord Websocket",
+    "url": "https://jh-artworks.com",
+    "compatibility": {
+        "version": "6.0",
+        "date": 1491343200
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

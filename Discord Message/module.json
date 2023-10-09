@@ -1,0 +1,14 @@
+{
+    "id": "{FD72BA15-21B4-BB06-6CA5-E258CE6BF621}",
+    "name": "Discord Message",
+    "type": 3,
+    "vendor": "Discord",
+    "aliases":
+    [
+    ],
+    "url": "https://jh-artworks.com",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "DWM"
+}
