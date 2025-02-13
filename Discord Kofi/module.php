@@ -8,7 +8,7 @@ class DiscordKofi extends IPSModule {
         
         $this->RegisterPropertyString("DiscordWsUrl","");
         $this->RegisterPropertyString("Url","");
-        $this->RegisterPropertyString("Titel","Eine Nachricht von Kofi");
+        $this->RegisterPropertyString("Title","Eine Nachricht von Kofi");
     }
 
     // Überschreibt die intere IPS_ApplyChanges($id) Funktion
@@ -28,7 +28,7 @@ class DiscordKofi extends IPSModule {
             // Discord webhook URL
             $webhookUrl = $this->ReadPropertyString("DiscordWsUrl");
             $Url = $this->ReadPropertyString("Url");
-            $topic= $this->ReadPropertyString("Titel");
+            $topic= $this->ReadPropertyString("Title");
             // Data to send as JSON
             $data = array(
                 "username" => $topic,
