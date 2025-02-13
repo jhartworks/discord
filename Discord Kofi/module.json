@@ -1,0 +1,14 @@
+{
+    "id": "{DDC385EB-AE56-685F-D265-85B5CE7F1FCE}",
+    "name": "Discord Kofi",
+    "type": 3,
+    "vendor": "Discord",
+    "aliases":
+    [
+    ],
+    "url": "https://jh-artworks.com",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "DKM"
+}

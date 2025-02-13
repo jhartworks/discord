@@ -1,0 +1,17 @@
+{
+    "elements":
+    [
+        { "type": "ValidationTextBox", "name": "Title", "caption": "Titel" },
+        { "type": "ValidationTextBox", "name": "DiscordWsUrl", "caption": "Discord Websocket URL" },
+        { "type": "ValidationTextBox", "name": "Url", "caption": "Kofi Url" }
+
+    ],
+    "actions":
+    [
+
+    ],
+    "status":
+    [
+
+    ]
+}
